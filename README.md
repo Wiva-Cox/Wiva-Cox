@@ -19,4 +19,6 @@ CV
 ![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=DOCKER&logocolor=F24E1E)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jirasoftware&logocolor=F24E1E)
 
-Follow me
+## Follow me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alksmironov)
