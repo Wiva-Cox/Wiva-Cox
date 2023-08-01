@@ -5,7 +5,8 @@
 ### Check out my CV - [![CV](https://github.com/Wiva-Cox/Wiva-Cox/blob/main/assets/CV_icon.png)](https://drive.google.com/drive/folders/1MgG1XS0ap6K1RJFzPdL_34vzYWzJYYk_?usp=drive_link)
 
 
-### MY TOOLS
+
+## MY TOOLS
 
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=google&logocolor=0CEBEB)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman&logocolor=0CEBEB)
