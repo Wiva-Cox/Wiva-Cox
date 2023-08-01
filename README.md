@@ -2,7 +2,7 @@
 
 ## Functional and non-functional product testing.
 
-### Check out my CV - [![CV](https://github.com/Wiva-Cox/Wiva-Cox/blob/main/assets/CV_icon.png)](https://drive.google.com/drive/folders/1MgG1XS0ap6K1RJFzPdL_34vzYWzJYYk_?usp=drive_link)
+### Check out my CV - [here](https://drive.google.com/drive/folders/1MgG1XS0ap6K1RJFzPdL_34vzYWzJYYk_?usp=drive_link).
 
 
 
