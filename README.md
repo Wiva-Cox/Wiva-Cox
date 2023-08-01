@@ -1,9 +1,11 @@
 [![Header](https://github.com/Wiva-Cox/Wiva-Cox/blob/main/assets/banner.svg)](https://github.com/Wiva-Cox)
 
+
 ## Functional and non-functional product testing.
 
 ### Check out my CV - [here](https://drive.google.com/drive/folders/1MgG1XS0ap6K1RJFzPdL_34vzYWzJYYk_?usp=drive_link).
 
+### Check out my Portfolio (bug-reports) - [here](https://transparent-hospital-415.notion.site/Bug-reports-e96e08a9302d47aaa1b261b3f4b2687e?pvs=4).
 
 
 ## MY TOOLS
