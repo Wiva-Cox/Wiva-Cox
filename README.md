@@ -6,6 +6,8 @@
 
 ### Check out my Portfolio (bug-reports) - [here](https://transparent-hospital-415.notion.site/Bug-reports-e96e08a9302d47aaa1b261b3f4b2687e?pvs=4)
 
+### Certificate EF SET - English level C2 Proficient 73/100 - [here](https://www.efset.org/cert/UdRZ7M)
+
 ## MY TOOLS
 
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=google&logocolor=0CEBEB)
