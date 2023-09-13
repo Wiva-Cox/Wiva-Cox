@@ -10,6 +10,8 @@
 
 ## MY TOOLS
 
+![CODEWARS](https://www.codewars.com/users/Wiva-Cox/badges/large)
+
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=google&logocolor=0CEBEB)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman&logocolor=0CEBEB)
 ![SWAGGER](https://img.shields.io/badge/-SWAGGER-090909?style=for-the-badge&logo=swagger&logocolor=0CEBEB)
@@ -26,3 +28,4 @@
 ## Follow me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alksmironov)
+
