@@ -4,7 +4,7 @@
 
 ### Check out my CV - [here](https://drive.google.com/drive/folders/1MgG1XS0ap6K1RJFzPdL_34vzYWzJYYk_?usp=drive_link)
 
-### Check out my Portfolio (bug-reports) - [here](https://transparent-hospital-415.notion.site/Bug-reports-e96e08a9302d47aaa1b261b3f4b2687e?pvs=4)
+### Check out my Portfolio (bug-reports) - [here](https://alks.notion.site/Bug-reports-e96e08a9302d47aaa1b261b3f4b2687e?pvs=4)
 
 ### Certificate EF SET - English level C2 Proficient 73/100 - [here](https://www.efset.org/cert/UdRZ7M)
 
