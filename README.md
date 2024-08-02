@@ -4,11 +4,13 @@
 
 ### Check out my CV - [here](https://drive.google.com/drive/folders/1MgG1XS0ap6K1RJFzPdL_34vzYWzJYYk_?usp=drive_link)
 
-### Check out my Portfolio (bug-reports) - [here](https://transparent-hospital-415.notion.site/Bug-reports-e96e08a9302d47aaa1b261b3f4b2687e?pvs=4)
+### Check out my Portfolio (bug-reports) - [here](https://alks.notion.site/Bug-reports-e96e08a9302d47aaa1b261b3f4b2687e?pvs=4)
 
 ### Certificate EF SET - English level C2 Proficient 73/100 - [here](https://www.efset.org/cert/UdRZ7M)
 
 ## MY TOOLS
+
+![CODEWARS](https://www.codewars.com/users/Wiva-Cox/badges/large)
 
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=google&logocolor=0CEBEB)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman&logocolor=0CEBEB)
@@ -26,3 +28,4 @@
 ## Follow me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alksmironov)
+
